@@ -1,0 +1,9 @@
+.container {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.btn-group {
+  margin: 40px auto;
+}
